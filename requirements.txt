@@ -1,0 +1,8 @@
+streamlit
+fitz
+json
+spacy
+PyMuPDF
+python-docx
+networkx
+pygraphviz
