@@ -1,0 +1,97 @@
+python
+machine learning
+deep learning
+tensorflow
+pytorch
+data preprocessing
+feature engineering
+model evaluation
+scikit-learn
+neural networks
+natural language processing
+computer vision
+docker
+git
+cloud computing
+statistics
+data analysis
+sql
+r
+data visualization
+pandas
+matplotlib
+seaborn
+big data
+hadoop
+spark
+communication
+storytelling
+excel
+data cleaning
+tableau
+power bi
+business intelligence
+reporting
+data mining
+google analytics
+critical thinking
+presentation skills
+java
+c++
+algorithms
+data structures
+unit testing
+object oriented programming
+kubernetes
+rest api
+microservices
+agile
+ci/cd
+debugging
+aws
+azure
+linux
+bash scripting
+jenkins
+terraform
+ansible
+monitoring
+networking
+security
+roadmapping
+scrum
+market research
+analytics
+stakeholder management
+user experience
+prioritization
+problem solving
+team leadership
+requirements gathering
+product design
+wireframing
+process modeling
+documentation
+report writing
+business process
+network security
+firewalls
+intrusion detection
+risk assessment
+vulnerability management
+incident response
+encryption
+penetration testing
+security policies
+cloud security
+siem
+compliance
+google cloud
+scripting
+automation
+cloud architecture
+mathematics
+reinforcement learning
+algorithm design
+probability
+research methodology
